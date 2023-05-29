@@ -1,0 +1,87 @@
+{
+  "posts": [
+    {
+      "title": "blog-new",
+      "author": "djanati",
+      "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "datePosted": "23-03-2022",
+      "id": 11
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Lydie Muhawenimana",
+      "email": "lydie@gmail.com",
+      "password": "123",
+      "phoneNumber": "0788434566",
+      "role": "admin"
+    },
+    {
+      "email": "grace@gmail.com",
+      "password": "123",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "email": "kundwa@gmail.com",
+      "password": "123",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "email": "nono@gmail.com",
+      "password": "123",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "fullName": "cycy",
+      "email": "cycy@gmail.com",
+      "phoneNumber": "0788610335",
+      "password": "123",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "fullName": "keke",
+      "email": "keke@gmail.com",
+      "phoneNumber": "0788610335",
+      "password": "123",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "fullName": "kiki",
+      "email": "kiki@gmail.com",
+      "phoneNumber": "0786064274",
+      "password": "1234",
+      "role": "user",
+      "id": 7
+    },
+    {
+      "fullName": "Lydie",
+      "email": "lyd@gmail.com",
+      "phoneNumber": "07860634",
+      "password": "123",
+      "role": "user",
+      "id": 8
+    },
+    {
+      "fullName": "titi",
+      "email": "titi@gmail.com",
+      "phoneNumber": "0782002517",
+      "password": "1234",
+      "role": "user",
+      "id": 9
+    },
+    {
+      "fullName": "titi",
+      "email": "titi@gmail.com",
+      "phoneNumber": "0782002517",
+      "password": "1234",
+      "role": "user",
+      "id": 10
+    }
+  ]
+}
