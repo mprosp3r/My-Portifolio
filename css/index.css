@@ -338,7 +338,7 @@ padding-bottom: .5rem;
             width: 90% ;
             }
             .about .row .progress .bar-3-3 span{
-                width: 75% ;
+                width: 90% ;
                 }
 .services{
     padding-left: 8rem;
@@ -396,12 +396,16 @@ overflow: hidden;
  .services .box-container .box:before > *{
  color: #fff;
  }
+ .contact{
+    text-align: center;
+ }
  .contact .head{
     text-align: center;
     font-size: 5rem;
     color: var(--black);
     text-transform: uppercase;
      }
+
 .contact form{
     margin: 1rem auto;
     max-width: 70rem;
@@ -422,6 +426,10 @@ overflow: hidden;
     box-shadow: var(--box-shadow);
     border-radius: .5rem;
 
+}
+.contact a{
+    font-size: 1.6rem;
+    text-transform: lowercase;
 }
 .head span{
     color: var(--blue);
